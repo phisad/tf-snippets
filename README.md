@@ -8,8 +8,8 @@ Easy access to simple tensorflow code for reuse
 
 * [DNN simplest](https://github.com/phisad/tf-snippets/blob/master/examples/mnist/example_fnn_simplest.ipynb)
 * [DNN simplest (commented)](https://github.com/phisad/tf-snippets/blob/master/examples/mnist/example_fnn_simplest_commented.ipynb)
-* [DNN with evaluation](https://github.com/phisad/tf-snippets/blob/master/examples/mnist/example_fnn_evaluation.ipynb)
-* [DNN with tensorboard summaries](https://github.com/phisad/tf-snippets/blob/master/examples/mnist/example_fnn_summaries.ipynb)
+* [DNN with evaluation](https://github.com/phisad/tf-snippets/blob/master/examples/mnist/example_fnn_with_evaluation.ipynb)
+* [DNN with tensorboard summaries](https://github.com/phisad/tf-snippets/blob/master/examples/mnist/example_fnn_with_summaries.ipynb)
 
 ## Snippets
 
