@@ -15,3 +15,4 @@ Easy access to simple tensorflow code for reuse
 
 * [tensorboard summaries](https://github.com/phisad/tf-snippets/blob/master/snippets/snippets_summaries.ipynb)
 * [training loops](https://github.com/phisad/tf-snippets/blob/master/snippets/snippets_training.ipynb)
+* [tf records](https://github.com/phisad/tf-snippets/blob/master/snippets/snippets_tfrecords.ipynb)
